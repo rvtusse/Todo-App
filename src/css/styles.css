@@ -9,7 +9,7 @@ html {
 	padding-top: 100px;
 }
 body {
-	background: linear-gradient(180deg, #2F0045, #552660);
+	background: linear-gradient(180deg, rgb(22, 20, 22), #110c13);
 	background-attachment: fixed;
 	margin: 0px;
 	height: 100%!important;
@@ -34,8 +34,8 @@ ul {
 	padding: 0px;
 }
 input {
-	background-color: #380D4A;
-	border: solid 1.5px #4D1366;
+	background-color: rgb(40, 31, 44);
+	border: solid 1.5px rgb(24, 122, 62);
 	height: 50px;
 	border-top-right-radius: 0px;
 	border-bottom-right-radius: 0px;
@@ -50,7 +50,7 @@ input {
 	margin-bottom: 20px;
 }
 ::placeholder {
-	color: #745680;
+	color: #f7f4f6;
 }
 input:focus, button:focus {
 	outline: none;
@@ -65,8 +65,8 @@ button {
 	border-bottom-right-radius: 5px;
 	border-top-left-radius: 0px;
 	border-bottom-left-radius: 0px;
-	border: solid 1.5px #4D1366;
-	background-color: #4D1366;
+	border: solid 1.5px rgb(254, 252, 255);
+	background-color: rgb(19, 172, 101);
 	padding: 0px;
 	margin: 0px;
 	color: #FFF;
